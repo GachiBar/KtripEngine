@@ -1,3 +1,6 @@
 [submodule "DX11RenderEngine"]
 	path = DX11RenderEngine
 	url = https://github.com/GachiBar/DX11RenderEngine
+[submodule "EngineCore"]
+	path = EngineCore
+	url = https://github.com/GachiBar/EngineCore
