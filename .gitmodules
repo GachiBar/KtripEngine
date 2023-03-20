@@ -4,6 +4,3 @@
 [submodule "EngineCore"]
 	path = EngineCore
 	url = https://github.com/GachiBar/EngineCore
-[submodule "SimpleMath"]
-	path = SimpleMath
-	url = E:/GachiEngine/SimpleMath
